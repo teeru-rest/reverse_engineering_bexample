@@ -1,0 +1,35 @@
+ADD: Suma dos valores.
+AND: Realiza una operación AND bit a bit.
+CALL: Llama a una subrutina (función).
+CMP: Compara dos valores.
+CLI: Deshabilita interrupciones.
+DEC: Decrementa un valor en 1.
+DIV: Divide dos valores.
+INC: Incrementa un valor en 1.
+INT: Interrumpe el flujo de ejecución (invoca una rutina de interrupción).
+JAE (Jump if Above or Equal): Salta si es mayor o igual.
+JA (Jump if Above): Salta si es mayor.
+JBE (Jump if Below or Equal): Salta si es menor o igual.
+JB (Jump if Below): Salta si es menor.
+JE (Jump if Equal): Salta si los valores comparados son iguales.
+JGE (Jump if Greater or Equal): Salta si el valor es mayor o igual.
+JG (Jump if Greater): Salta si el valor es mayor.
+JLE (Jump if Less or Equal): Salta si el valor es menor o igual.
+JL (Jump if Less): Salta si el valor es menor.
+JNE (Jump if Not Equal): Salta si los valores comparados no son iguales.
+JMP (Jump): Salta a otra dirección de código sin condiciones.
+LEA (Load Effective Address): Carga la dirección efectiva de una variable.
+MOV: Mueve (copia) un valor de un lugar a otro.
+MUL: Multiplica dos valores.
+NOP (No Operation): No realiza ninguna acción, solo ocupa espacio.
+OR: Realiza una operación OR bit a bit.
+POP: Saca un valor de la pila.
+PUSH: Coloca un valor en la pila.
+RET: Retorna de una subrutina.
+ROL (Rotate Left): Rota bits a la izquierda.
+ROR (Rotate Right): Rota bits a la derecha.
+SHL (Shift Left): Desplaza bits a la izquierda.
+SHR (Shift Right): Desplaza bits a la derecha.
+SUB: Resta dos valores.
+TEST: Realiza una operación AND pero solo para establecer los flags.
+XOR: Realiza una operación XOR bit a bit.
