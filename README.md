@@ -5,6 +5,15 @@ I used x64dbg
 
 Here we try de ckme.exe app and we can see it works correctly
 
+
+
+
+
+
+
+
+
+
 <img width="500" height="144" alt="Image" />
 
 Now we execute crack.exe in another terminal with ckme.exe open
