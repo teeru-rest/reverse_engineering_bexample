@@ -15,6 +15,8 @@ We try again and we see different results.
 
 <img width="477" height="88" alt="Captura de pantalla 2025-12-09 231233" src="https://github.com/user-attachments/assets/d1c1dbe2-ee76-443e-afa9-d3fa6d3cef60" />
 
+If you don't trust .exe deafult files I've uploaded, use g++ on both c++ files so you get your .exe files 100% trusted with the code that you can check. 
+
 
 
 
