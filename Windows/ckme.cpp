@@ -1,30 +1,28 @@
 #include <iostream>
-#include <algorithm> // Para convertir a minúsculas
+#include <algorithm>
 
 using namespace std;
 
 int main()
 {
-    string texto;
+    string text;
 
     while (true) {
         cout << "Enter the password: ";
-        getline(cin, texto);
+        getline(cin, text);
 
-        // Convertimos la entrada a minúsculas
-        transform(texto.begin(), texto.end(), texto.begin(), ::tolower);
+        transform(text.begin(), text.end(), text.begin(), ::tolower);
 
-        if (texto == "wed") {
+        if (text == "wed") {
             cout << "Well done! Correct password" << endl;
-            break; // Sale del bucle cuando la contraseña es correcta
+            break;
         } else {
             cout << "Nope, try again" << endl;
         }
     }
 
-    // Pausar la ejecución
     cout << "Press Enter to exit...";
-    cin.get(); // Captura la pausa para que el usuario vea el mensaje antes de salir
+    cin.get();
 
     return 0;
 }
